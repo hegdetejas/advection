@@ -8,7 +8,7 @@ This code is written in C++ and was compiled using g++11.
 
 ## Usage
 g++-11 -fopenmp advection_boost.cpp<br/>
-./a.out N> NT L T u v
+./a.out N NT L T u v
 
 The optional flag for number of threads has not been added. To change this, edit numThreads in advection_boost.cpp.
 
